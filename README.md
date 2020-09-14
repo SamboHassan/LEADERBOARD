@@ -1,1 +1,1 @@
-# LEADERBOARD
+# GADS Leaderboard
